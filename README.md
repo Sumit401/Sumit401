@@ -16,7 +16,7 @@
 <a href="https://twitter.com/sumit401" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" alt="sumit401" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/sumit401/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="sumit401/" height="40" width="40" /></a>
 <a href="https://instagram.com/_sumit.sinha_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="_sumit.sinha_" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/9409460" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="9409460" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/9409460" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="9409460" height="40" width="40" /></a>
 <a href="https://fb.com/sinha401" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1200px-Facebook_f_logo_%282021%29.svg.png" alt="sinha401" height="40" width="40" /></a>
 </p>
 
