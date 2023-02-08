@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">An Androd Developer always ready to <i>Dart   </i><img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" width="20" height="20"></h3>
+<h3 align="center">An Android Developer always ready to <i>Dart   </i><img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" width="20" height="20"></h3>
 
 <!----<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit401&label=Profile%20views&color=0e75b6&style=flat" alt="sumit401" /> </p> --->
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumit401" target="blank"><img src="https://img.shields.io/twitter/follow/sumit401?logo=twitter&style=for-the-badge" alt="sumit401" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Application Development**
 
 
 
