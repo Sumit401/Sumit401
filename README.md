@@ -1,9 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">An Android Developer always ready to <i>Dart   </i><img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" width="20" height="20"></h3>
 
 <!----<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit401&label=Profile%20views&color=0e75b6&style=flat" alt="sumit401" /> </p> --->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit401" alt="sumit401" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit401" alt="sumit401" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumit401" target="blank"><img src="https://img.shields.io/twitter/follow/sumit401?logo=twitter&style=for-the-badge" alt="sumit401" /></a> </p>
 
